@@ -2,7 +2,6 @@ import '../../styles/common.less';
 import '../../styles/index.less';
 import './../laya/libs/laya.core.js';
 import './../laya/libs/laya.webgl.js';
-import './../laya/libs/laya.ui.js';
 import './../laya/libs/laya.ani.js';
 import './../laya/libs/laya.d3.js';
 
